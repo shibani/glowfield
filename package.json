@@ -2,6 +2,7 @@
   "name": "glowfield-tmp",
   "version": "1.0.0",
   "main": "index.ts",
+  "license": "MPL-2.0",
   "dependencies": {
     "expo": "~58.0.23",
     "expo-status-bar": "~58.0.4",
